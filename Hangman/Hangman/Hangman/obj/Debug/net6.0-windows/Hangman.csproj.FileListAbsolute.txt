@@ -1,0 +1,17 @@
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.exe
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.deps.json
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.runtimeconfig.json
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.dll
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.pdb
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.csproj.AssemblyReference.cache
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.Form1.resources
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.csproj.GenerateResource.cache
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.AssemblyInfoInputs.cache
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.AssemblyInfo.cs
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.dll
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\refint\Hangman.dll
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.pdb
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.genruntimeconfig.cache
+C:\Users\Liyema\OneDrive - Eduvos\School\Hangman\Hangman\Hangman\obj\Debug\net6.0-windows\ref\Hangman.dll
